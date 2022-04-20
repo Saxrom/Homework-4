@@ -1,0 +1,13 @@
+/Users/shahrom/Desktop/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.deps.json
+/Users/shahrom/Desktop/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.runtimeconfig.json
+/Users/shahrom/Desktop/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.runtimeconfig.dev.json
+/Users/shahrom/Desktop/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.dll
+/Users/shahrom/Desktop/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.pdb
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfo.cs
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.dll
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.pdb
+/Users/shahrom/Desktop/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.genruntimeconfig.cache
