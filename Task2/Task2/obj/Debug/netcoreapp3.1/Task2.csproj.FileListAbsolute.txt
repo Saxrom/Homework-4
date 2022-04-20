@@ -11,3 +11,16 @@
 /Users/shahrom/Desktop/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.dll
 /Users/shahrom/Desktop/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.pdb
 /Users/shahrom/Desktop/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.genruntimeconfig.cache
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.deps.json
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.json
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.dev.json
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.dll
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.pdb
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfo.cs
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.dll
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.pdb
+/Users/shahrom/Desktop/String,Array Methods/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.genruntimeconfig.cache

@@ -30,35 +30,26 @@ namespace Task2
             Group = group;
             Point = point;
 
-            if (Point > 80)
-            {
-                Console.WriteLine("Telebe ikinci imtahana gire biler");
-            }
+        }
 
-            else
-            {
-                Console.WriteLine("Telebe ikinci imtahana gire bilmez");
-            }
-
-            IsGraduated = isGraduated;
-
-            if(isGraduated)
+        public string getInfo()
+        {
+            if (IsGraduated==true)
             {
                 Console.WriteLine("Telebe mezun olub");
+            }
+
+            else if (Point>80)
+            {
+                Console.WriteLine("Ikinci imtahana buraxilir");
             }
 
             else
             {
                 Console.WriteLine("Telebe mezun olmayib");
+                Console.WriteLine("Ikinc imtahana buraxilmir");
             }
 
-
-        }
-
-
-        public string getInfo()
-        {
-       
             return $"Name: {Name}  Surname:{Surname} Group:{Group} Point:{Point} isGrduate:{IsGraduated}";
 
         }
